@@ -1,3 +1,7 @@
 <resources>
   <string name="app_name">OnDemandRxWrapper</string>
+    <string name="feature_a_detailed_installer">Feature A Detailed Installer</string>
+  <string name="feature_a_simple_installer">Feature A Simple Installer</string>
+  <string name="feature_a_simple_with_errors_installer">Feature A Simple Installer With Errors</string>
+  <string name="feature_z_missing_detailed_installer">Feature Z Missing Detailed Installer</string>
 </resources>
